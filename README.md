@@ -1,22 +1,33 @@
 
 # Hello! I'm Edanur ⭐
 
-I'm Edanur, a Computer Engineering student with a great interest and passion for both Front-end and Back-end development.
+I'm a Computer Engineering student who is passionate about developing projects in both Front-End and Back-End. I’m highly motivated to create user-friendly interfaces and build robust systems that provide real-world value.
 
 ## 🌸 Front-end
 
-- **HTML/CSS:** Intermediate knowledge of HTML and CSS
+- HTML/CSS/Bootstrap
+- JavaScript
 
 ## 🌸 Back-end
 
-- **C#:** Object-oriented programming and application development
-- **MSSQL:** Database design and management
-- **Version Control:** Managing projects using Git and GitHub
+- C#
+- MSSQL
+- Version Control
+
+## 🌸 Others
+
+- Git & GitHub
 
 ## 💭 Currently Learning
 
-- **JavaScript:** Creating dynamic and interactive web pages
-- **Node.js:** Server-side development and application development
+- React
+
+## 🌱 Interests
+
+- Web development (especially modern UI/UX)
+- Software architecture and design patterns
+- User experience (UX) and accessibility
+- Visual design and digital presentation
 
 
 ![Edanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=edanurcelikk&theme=dracula&show_icons=true)
