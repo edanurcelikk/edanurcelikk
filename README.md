@@ -1,22 +1,13 @@
 
 # Hello! I'm Edanur ⭐
 
-I'm a Computer Engineering student who is passionate about developing projects in both Front-End and Back-End. I’m highly motivated to create user-friendly interfaces and build robust systems that provide real-world value.
+I'm a Computer Engineering student passionate about developing projects in Front-End. I’m highly motivated to create user-friendly interfaces and build robust systems that provide real-world value.
 
-## 🌸 Front-end
+## 🌸 Technologies
 
-- HTML/CSS/Bootstrap
-- JavaScript
-
-## 🌸 Back-end
-
+- HTML/CSS/JavaScript
 - C#
 - MSSQL
-- Version Control
-
-## 🌸 Others
-
-- Git & GitHub
 
 ## 💭 Currently Learning
 
